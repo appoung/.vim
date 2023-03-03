@@ -2,8 +2,10 @@
 한병준의 .vim파일
 
 ```bash
-apt install vim
-git clone git@github.com:appoung/.vim.git
+cd ~
+mkdir .vim
+cd .vim
+git clone git@github.com:appoung/.vim.git .
 ```
 
 
